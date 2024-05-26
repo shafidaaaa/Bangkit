@@ -1,5 +1,5 @@
 ---
 
-Lab ungraded and grade Coursera
+Lab ungraded and graded Coursera
 
 ---
