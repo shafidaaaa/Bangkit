@@ -1,5 +1,5 @@
 ----
-###### This data contains the data from these link below
+###### This contains the data from these link below
 
 
 ###### [Citra BISINDO](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)
