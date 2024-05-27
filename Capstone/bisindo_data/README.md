@@ -7,5 +7,5 @@
 
 ###### [bisindo_dataset_v2](https://www.kaggle.com/datasets/yunitayupratiwi/bisindo-dataset)
 
-##### [bisindo_dataset_v3](https://www.kaggle.com/datasets/alfredolorentiars/bisindo-letter-dataset
+##### [bisindo_dataset_v3](https://www.kaggle.com/datasets/alfredolorentiars/bisindo-letter-dataset)
 ---
