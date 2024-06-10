@@ -25,7 +25,7 @@ Here is the prediction of the validation data
 
 And now we will try to predict real world data or the data that the model has never seen before
 
-<h5>Image Test 1</h5>
+<h4><b>Image Test 1</b></h4>
 True Class : E
 <img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test1.jpg" width="30%">
 Hasil Prediksi : E
@@ -33,7 +33,7 @@ Hasil Prediksi : E
 
 <br>
 
-<h5>Image Test 2</h5>
+<h4><b>Image Test 2</b></h4>
 True Class : E
 <img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg" width="30%">
 Hasil Prediksi : E
@@ -41,7 +41,7 @@ Hasil Prediksi : E
 
 <br>
 
-<h5>Image Test 3</h5>
+<h4><b>Image Test 3</b></h4>
 True Class : E
 <img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg" width="30%">
 Hasil Prediksi : E
