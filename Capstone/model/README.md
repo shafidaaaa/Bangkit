@@ -27,23 +27,23 @@ And now we will try to predict real world data or the data that the model has ne
 
 <h5>Image Test 1</h5>
 True Class : E
-<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test1.jpg">
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test1.jpg" width="30px">
 Hasil Prediksi : E
-<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%201.png">
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%201.png" width="40px">
 
 <br>
 
 <h5>Image Test 2</h5>
 True Class : E
-<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg">
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg" width="30px">
 Hasil Prediksi : E
-<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%202.png">
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%202.png" width="40px">
 
 <br>
 
 <h5>Image Test 3</h5>
 True Class : E
-<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg">
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg" width="30px">
 Hasil Prediksi : E
-<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%203.png">
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%203.png" width="40px">
 <br>
