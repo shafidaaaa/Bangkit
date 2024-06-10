@@ -11,3 +11,39 @@ this model has the purpose to predict A B C etc with the hand pictures that are 
 ***https://github.com/shafidaaaa/Bangkit/tree/main/Capstone/bisindo_data***
 
 ---
+
+The [final model](https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/model/final%20model/Bisindo.ipynb) is using transfer learning VGG16 with accuracy 100% and validation accuracy 97%
+<br>
+Here is the training graph 
+<br>
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/model/final%20model/covmatrix.png">
+<br>
+Here is the prediction of the validation data 
+<br>
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/model/final%20model/output.png">
+<br>
+
+And now we will try to predict real world data or the data that the model has never seen before
+
+<h5>Image Test 1</h5>
+True Class : E
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test1.jpg">
+Hasil Prediksi : E
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%201.png">
+
+<br>
+
+<h5>Image Test 2</h5>
+True Class : E
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg">
+Hasil Prediksi : E
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%202.png">
+
+<br>
+
+<h5>Image Test 3</h5>
+True Class : E
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/bisindo_data/real_data/test2.jpg">
+Hasil Prediksi : E
+<img src="https://github.com/shafidaaaa/Bangkit/blob/main/Capstone/Evidence%20Logbook/Week%203/Week%203_June%206%202024%20testing%203.png">
+<br>
